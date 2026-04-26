@@ -2,7 +2,7 @@
 此资源包为 [机械动力：航空学](https://modrinth.com/mod/create-aeronautics) 与 [瓦尔基里天空](https://modrinth.com/mod/valkyrien-skies) 及大部分相关模组添加了简体中文翻译。<br>
 资源包内也包含一些其他模组的翻译。<br>
 **所有可提交至对应仓库的翻译文件均已提交至对应的官方仓库！**<br>
-[机械动力：航空学-MC百科界面](https://www.mcmod.cn/class/26350.html)
+[机械动力：航空学-MC百科界面](https://www.mcmod.cn/class/26350.html)<br>
 [瓦尔基里天空-MC百科界面](https://www.mcmod.cn/class/1528.html)
 
 # 支持的模组
