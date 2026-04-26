@@ -1,3 +1,10 @@
+# 2.4.11
+## 更新翻译文件
+- 机械动力：推进工程 Create: Propulsion
+  - 版本：0.3.2
+- Clockwork
+  - 版本：0.5.5.2
+
 # 2.4.10
 ## 更新翻译文件
 - 瓦尔基里天空 Valkyrien Skies
