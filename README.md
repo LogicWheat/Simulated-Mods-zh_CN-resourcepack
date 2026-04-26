@@ -21,8 +21,8 @@
 - [[百科](https://www.mcmod.cn/class/13218.html)|[MR](https://modrinth.com/mod/interactive)|[CF](https://www.curseforge.com/minecraft/mc-mods/create-interactive)] 机械动力：交互学（Create: Interactive）
 - [[百科](https://www.mcmod.cn/class/13891.html)|[MR](https://modrinth.com/mod/vmod)|[CF](https://www.curseforge.com/minecraft/mc-mods/valkyrien-logistics)] Vmod
 - [[百科](https://www.mcmod.cn/class/24170.html)|[MR](https://modrinth.com/mod/valkyrien-logistics)|[CF](https://www.curseforge.com/minecraft/mc-mods/valkyrien-logistics)] 瓦尔基里：逻辑仪表（Create: Valkyrien Logistics）
-- [[百科]()|[MR](https://modrinth.com/mod/beyond-oxygen)|[CF]()] Beyond Oxygen **（此模组翻译暂未进行校对，谬误较多）**
-- [[百科](https://www.mcmod.cn/class/26244.html)|[MR](https://modrinth.com/mod/vs-safe-and-sound)|[CF]()] 瓦尔基里：安然无恙（VS Safe and Sound）
+- [[百科](https://www.bilibili.com/video/BV1GJ411x7h7)|[MR](https://modrinth.com/mod/beyond-oxygen)|[CF](https://www.bilibili.com/video/BV1GJ411x7h7)] Beyond Oxygen **（此模组翻译暂未进行校对，谬误较多）**
+- [[百科](https://www.mcmod.cn/class/26244.html)|[MR](https://modrinth.com/mod/vs-safe-and-sound)|[CF](https://www.bilibili.com/video/BV1GJ411x7h7)] 瓦尔基里：安然无恙（VS Safe and Sound）
 
 ## 同时支持 机械动力：航空学 与 瓦尔基里天空 的模组
 - [[百科](https://www.mcmod.cn/class/18675.html)|[MR](https://modrinth.com/mod/drive-by-wire)|[CF](https://www.curseforge.com/minecraft/mc-mods/drive-by-wire)] 线缆控制（Drive-By-Wire）
