@@ -13,12 +13,12 @@
   "commands.sable.spawn.success": "已生成 %s",
   "commands.sable.spawn.clone.success": "已克隆子世界",
 
-  "commands.sable.physics.impulse.angular.success": "已对 %3$s 的 %2$s 施加 %1$s 角冲量",
-  "commands.sable.physics.impulse.linear.success": "已对 %3$s 的 %2$s 施加 %1$s 线性冲量",
-  "commands.sable.physics.rotation.add.success": "已为 %3$s 的 %2$s 增加 %1$s 旋转",
-  "commands.sable.physics.rotation.set.success": "已将 %1$s 的旋转设为 %2$s",
-  "commands.sable.physics.translation.add.success": "已为 %3$s 的 %2$s 增加 %1$s 平移",
-  "commands.sable.physics.translation.set.success": "已将 %1$s 的平移设为 %2$s",
+  "commands.sable.physics.impulse.angular.success": "已对 %2$s 施加 %1$s 角冲量 %3$s",
+  "commands.sable.physics.impulse.linear.success": "已对 %2$s 施加 %1$s 线性冲量 %3$s",
+  "commands.sable.physics.rotation.add.success": "已将 %2$s %1$s 旋转 %3$s",
+  "commands.sable.physics.rotation.set.success": "已 %1$s 设置了 %2$s 的角度",
+  "commands.sable.physics.translation.add.success": "已将 %2$s %1$s 位移 %3$s",
+  "commands.sable.physics.translation.set.success": "已将 %1$s 的位置设为 %2$s",
 
   "commands.sable.joint.missing_sublevel_target": "无法找到作为关节的子世界",
   "commands.sable.joint.success": "成功创建关节",
@@ -69,7 +69,7 @@
   "commands.sable.info.linear_velocity": "    线速度：%.2f %.2f %.2f",
   "commands.sable.info.angular_velocity": "    角速度：%.2f %.2f %.2f",
   "commands.sable.info.mass": "    质量：%.2f",
-  "commands.sable.info.world_bounds": "    世界边界：%.2f x %.2f x %.2f",
+  "commands.sable.info.world_bounds": "    子世界边界箱：%.2f x %.2f x %.2f",
 
   "commands.data.sub_level.get": "子世界 %2$s 的 %1$s 在乘以倍率 %3$s 后为 %4$s",
   "commands.data.sub_level.modified": "已修改 %s 的子世界辅助数据",
